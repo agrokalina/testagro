@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testagro/static/css/main.0315f3cb.css",
+    "main.js": "/testagro/static/js/main.a05f9036.js",
+    "static/media/logo.svg": "/testagro/static/media/logo.424a0cdc836123b4079b606b27514cf4.svg",
+    "static/media/dovidka.svg": "/testagro/static/media/dovidka.4997eb7ee45f71a12cd7.svg",
+    "static/media/product.svg": "/testagro/static/media/product.b565bb1b603e1cb41102.svg",
+    "static/media/use.svg": "/testagro/static/media/use.6be3a78f49bf79ebc92e.svg",
+    "static/media/logo-mini.svg": "/testagro/static/media/logo-mini.7fd1a604fc13e45bd4f7273c0a3818bf.svg",
+    "static/media/operat.svg": "/testagro/static/media/operat.f68f0dd8d0cb1a79cbc4.svg",
+    "static/media/users.svg": "/testagro/static/media/users.136904fc202def335c63.svg",
+    "static/media/user_icon.svg": "/testagro/static/media/user_icon.38ea95936bb22b2de6d3.svg",
+    "index.html": "/testagro/index.html",
+    "static/media/statistik.svg": "/testagro/static/media/statistik.87c26160db914c9691ba.svg",
+    "main.0315f3cb.css.map": "/testagro/static/css/main.0315f3cb.css.map",
+    "main.a05f9036.js.map": "/testagro/static/js/main.a05f9036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0315f3cb.css",
+    "static/js/main.a05f9036.js"
+  ]
+}
